@@ -7,6 +7,7 @@ This is a repo created for the purpose of pushing leetcode solutions to github/
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rommyadel/LeetCode_Easy/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rommyadel/LeetCode_Easy/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -16,4 +17,9 @@ This is a repo created for the purpose of pushing leetcode solutions to github/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rommyadel/LeetCode_Easy/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rommyadel/LeetCode_Easy/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rommyadel/LeetCode_Easy/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
